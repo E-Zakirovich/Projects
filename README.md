@@ -1,45 +1,15 @@
-# Pet Projects
+# Pet Projects 
+1. My own [website](https://azamat-kappa.vercel.app). Codebase is [here](https://github.com/E-Zakirovich/azamatdotcom).
+2. Data Analytics project for [Hogwarts School](https://www.instagram.com/hogwarts_newuu/). Codebase [here](https://github.com/E-Zakirovich/Hogwarts). The result is [here](https://hogwarts.streamlit.app).
+3. Data Analytics project to represent resit exam students. Codebase is [here](https://github.com/E-Zakirovich/Resit). The result is [here](https://newuu-resit-exam-data-visualisation.streamlit.app).
+4. Demo [Micrograd](https://github.com/karpathy/micrograd) library. Codebase is [here](https://github.com/E-Zakirovich/Micrograd).
+5. Recognition of handwritten digits with pure math and oop. Codebase is [here](https://github.com/E-Zakirovich/Recognition-of-handwritten-digits)
+6. Brain Tumor detection with pytorch. Codebase is [here](https://github.com/E-Zakirovich/brain-tumor-detection)
+7. Animal detetction with pytorch. Codebase is [here](https://github.com/E-Zakirovich/animal-detection)
+8. Medical flower detection with pytorch. Codebase is [here](https://github.com/E-Zakirovich/medicinal-flower-classification)
+9. Drone detection with yolov8. Codebase is [here](https://github.com/E-Zakirovich/medicinal-flower-classification)
 
-1. **Personal Website** – My portfolio website.  
-   Website: [azamat-kappa.vercel.app](https://azamat-kappa.vercel.app) • Code: [GitHub](https://github.com/E-Zakirovich/azamatdotcom)
 
-2. **Hogwarts School Data Analytics** – Interactive dashboard for analyzing school data.  
-   Demo: [Streamlit](https://hogwarts.streamlit.app) • Code: [GitHub](https://github.com/E-Zakirovich/Hogwarts)
+Follow for my accounts on [Instagram](https://www.instagram.com/azamatzakirovch/), [Facebook](https://www.facebook.com/azamatzakirovch/), [X](https://x.com/azamatzakirovch), [Leetcode](https://leetcode.com/u/azamatzakirovch/), [Linedin](https://www.linkedin.com/in/azamatzakirovch/), [GitHub](https://github.com/E-Zakirovich), [Medium](https://medium.com/@azamatzakirovch), [Research Gate](https://www.researchgate.net/profile/Azamat-Zakirovich?ev=hdr_xprf). 
 
-3. **Resit Exam Data Analytics** – Data visualization dashboard for resit exam statistics.  
-   Demo: [Streamlit](https://newuu-resit-exam-data-visualisation.streamlit.app) • Code: [GitHub](https://github.com/E-Zakirovich/Resit)
-
-4. **Micrograd Implementation** – Educational implementation of Andrej Karpathy's Micrograd library.  
-   Code: [GitHub](https://github.com/E-Zakirovich/Micrograd)
-
-5. **Handwritten Digit Recognition** – Digit recognition built from scratch using pure mathematics and object-oriented programming.  
-   Code: [GitHub](https://github.com/E-Zakirovich/Recognition-of-handwritten-digits)
-
-6. **Brain Tumor Classification** – MRI brain tumor classification using Convolutional Neural Networks (PyTorch).  
-   Code: [GitHub](https://github.com/E-Zakirovich/brain-tumor-detection)
-
-7. **Animal Image Classification** – Animal image classification using Convolutional Neural Networks (PyTorch).  
-   Code: [GitHub](https://github.com/E-Zakirovich/animal-detection)
-
-8. **Medicinal Flower Classification** – Medicinal flower classification using Convolutional Neural Networks (PyTorch).  
-   Code: [GitHub](https://github.com/E-Zakirovich/medicinal-flower-classification)
-
-9. **Drone Object Detection** – Real-time drone detection using YOLOv8.  
-   Code: [GitHub](https://github.com/E-Zakirovich/drone-detection)
-
----
-
-## Connect with Me
-
-- **GitHub:** https://github.com/E-Zakirovich
-- **LinkedIn:** https://www.linkedin.com/in/azamatzakirovch/
-- **Kaggle:** https://www.kaggle.com/azamatzakirovch
-- **ResearchGate:** https://www.researchgate.net/profile/Azamat-Zakirovich?ev=hdr_xprf
-- **Medium:** https://medium.com/@azamatzakirovch
-- **X (Twitter):** https://x.com/azamatzakirovch
-- **Instagram:** https://www.instagram.com/azamatzakirovch/
-- **Facebook:** https://www.facebook.com/azamatzakirovch/
-- **LeetCode:** https://leetcode.com/u/azamatzakirovch/
-
-📫 **Email:** a.eshqoziyev@newuu.uz  
-💬 **Telegram:** https://t.me/azamatzakirovch
+For connection: [email](mailto:a.eshqoziyev@newuu.uz), [telegram](https://t.me/azamatzakirovch).
