@@ -7,7 +7,8 @@
 6. Brain Tumor detection with pytorch. Codebase is [here](https://github.com/E-Zakirovich/brain-tumor-detection)
 7. Animal detetction with pytorch. Codebase is [here](https://github.com/E-Zakirovich/animal-detection)
 8. Medical flower detection with pytorch. Codebase is [here](https://github.com/E-Zakirovich/medicinal-flower-classification)
-9. Drone detection with yolov8. Codebase is [here](https://github.com/E-Zakirovich/medicinal-flower-classification)
+9. Drone detection with YOLO v8 nano. Codebase is [here](https://github.com/E-Zakirovich/medicinal-flower-classification)
+10. Face mask detection with YOLO v8 nano. Codebase is [here](https://github.com/E-Zakirovich/face-mask-detection)
 
 
 Follow for my accounts on [Instagram](https://www.instagram.com/azamatzakirovch/), [Facebook](https://www.facebook.com/azamatzakirovch/), [X](https://x.com/azamatzakirovch), [Leetcode](https://leetcode.com/u/azamatzakirovch/), [Linedin](https://www.linkedin.com/in/azamatzakirovch/), [GitHub](https://github.com/E-Zakirovich), [Medium](https://medium.com/@azamatzakirovch), [Research Gate](https://www.researchgate.net/profile/Azamat-Zakirovich?ev=hdr_xprf). 
